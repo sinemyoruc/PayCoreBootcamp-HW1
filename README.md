@@ -1,5 +1,5 @@
 # Bileşik Faiz Hesaplama Api
-Bu projede anapara, vade süresi ve faiz yüzdesi parametreleri alınarak bileşik faiz hesabı yapılmıştır.
+Bu projede anapara, vade süresi ve faiz yüzdesi parametreleri alınarak bileşik faiz hesabı yapılmıştır. 
 
 ## Installation
 Öncelikle projeyi kolonlayın.
