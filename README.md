@@ -5,7 +5,7 @@ Bu projede anapara, vade süresi ve faiz yüzdesi parametreleri alınarak bileş
 Öncelikle projeyi kolonlayın.
 
 ```
-git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/SinemYoruc-Hafta1.git
+git clone https://github.com/sinemyoruc/PayCoreBootcamp-HW1.git
 ```
 
 ## Usage
