@@ -2,14 +2,14 @@
 Bu projede anapara, vade süresi ve faiz yüzdesi parametreleri alınarak bileşik faiz hesabı yapılmıştır. 
 
 ## Installation
-Öncelikle projeyi kolonlayın.
+Öncelikle projeyi klonlayın.
 
 ```
 git clone https://github.com/sinemyoruc/PayCoreBootcamp-HW1.git
 ```
 
 ## Usage
-Projeyi cloneladıktan sonra Visual Studio 2019 programında açınız.
+Projeyi klonladıktan sonra Visual Studio 2019 programında açınız.
 
 Daha sonra uygulamayı çalıştırabilirsiniz.
 
